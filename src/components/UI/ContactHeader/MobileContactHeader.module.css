@@ -1,0 +1,30 @@
+.navComponent{
+    background-color:#40B554;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color:white;
+}
+.navElement{
+    width:20%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.navElement2{
+    width:20%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.navIcon{
+    padding-left: 0.5 rem;
+    padding-right: 0.5 rem;
+}
+
+.logout{
+    width:20%;
+    border:none;
+    background-color: #40B554;
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}

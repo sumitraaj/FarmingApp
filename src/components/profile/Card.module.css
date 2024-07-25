@@ -1,0 +1,39 @@
+.card {
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    width:80%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;  
+  }
+
+  .name{
+    width: 23%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 5%;
+    padding-right:5%;
+    font-size: 1.5rem;
+    font-style: italic;
+  }
+  .price{
+    width: 23%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 5%;
+    padding-right:5%;
+    font-size: 1.5rem;
+    color:red;
+  }
+  .amount{
+    width: 23%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 5%;
+    padding-right:5%;
+    font-size: 1.5rem;
+    color:red;
+  }
